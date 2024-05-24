@@ -26,11 +26,11 @@ This application is in version 2.0.0, using Flutter 3.7.0 and latest versions of
 
 ---
 
-## Preview 📱
+<!-- ## Preview 📱
 
 https://user-images.githubusercontent.com/59374587/221328051-5fc89706-b6b7-4312-b67a-2c6468020e57.mp4
 
-   > * See also in [`demos`](https://github.com/felipecastrosales/Chat/tree/master/demos) folder. 🧐📂
+   > * See also in [`demos`](https://github.com/felipecastrosales/Chat/tree/master/demos) folder. 🧐📂 -->
 
 ---
 
